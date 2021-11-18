@@ -119,6 +119,17 @@
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime ipsa ratione omnis alias cupiditate saepe atque totam aperiam sed nulla voluptatem recusandae dolor, nostrum excepturi amet in dolores. Alias, ullam.</p>
         <button onclick="document.getElementById('id01').style.display='block'" class="w3-button w3-black">Open Modal</button>
       </div>
+      <div id="id01" class="w3-modal">
+        <div class="w3-modal-content w3-card-4">
+          <header class="w3-container w3-teal"> 
+            <span onclick="document.getElementById('id01').style.display='none'" 
+            class="w3-button w3-display-topright">&times;</span>
+            <h2>Modal Header</h2>
+          </header>
+          <div class="w3-container">
+            <p>You have two options to close this modal:</p>
+            <p>Click on the "x" or click anywhere outside of the modal!</p>
+          </div>
     </div>  
 
     <div class="timeline-item">
@@ -132,21 +143,6 @@
         <a class="bnt-more" href="javascript:void(0)">More</a>
       </div>
     </div>   
-  
-
-    <div id="id01" class="w3-modal">
-      <div class="w3-modal-content w3-card-4">
-        <header class="w3-container w3-teal"> 
-          <span onclick="document.getElementById('id01').style.display='none'" 
-          class="w3-button w3-display-topright">&times;</span>
-          <h2>Modal Header</h2>
-        </header>
-        <div class="w3-container">
-          <p>You have two options to close this modal:</p>
-          <p>Click on the "x" or click anywhere outside of the modal!</p>
-        </div>
-
-
   </div>
 </section>
 <script src="modal.js"></script>
