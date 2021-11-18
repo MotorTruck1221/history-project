@@ -1,10 +1,3 @@
-$(document).ready(function () {
-
-  $("#btnShow").click(function () {
-
-      $('#SampleModal').modal('show');
-
-  });
-
-});
-
+$('#myModal').on('shown.bs.modal', function () {
+  $('#myInput').trigger('focus')
+})
