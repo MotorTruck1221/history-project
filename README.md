@@ -1,5 +1,5 @@
 <h1 align="center">History Project</h1>
-<h3 align="center">This is ajust a Simple readme!</h3>
+<h3 align="center">This is my History Project! Languages used are shown above!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=motortruck1221&label=Profile%20views&color=009dff&style=plastic" alt="motortruck1221" /> </p>
 
