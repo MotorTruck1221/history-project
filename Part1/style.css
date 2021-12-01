@@ -3,6 +3,10 @@ body {
   font-size: 16px;
   line-height: 1.75;
 }
+::-webkit-scrollbar {
+  width: 0;  /* Remove scrollbar space */
+  background: transparent;  /* Optional: just make scrollbar invisible */
+}
 #timeline {
   display: flex;
   background-color: maroon;
