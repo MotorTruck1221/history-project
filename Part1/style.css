@@ -5,7 +5,7 @@ body {
 }
 #timeline {
   display: flex;
-  background-color: #031625;
+  background-color: maroon;
 }
 #timeline:hover .tl-item {
   width: 23.3333%;
