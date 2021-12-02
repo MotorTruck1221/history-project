@@ -1,5 +1,5 @@
 <h1 align="center">Sources /Credits</h1>
-<h3 align="center">Here Are All the Sources Used Nicely formatted! If you want to know which languages were used they are also below!</h3>
+<h3 align="center">Here Are All the Sources Used! If you want to know which languages were used they are also below!</h3>
 
 - Landing page https://www.pexels.com/video/bird-s-eye-view-of-a-train-travelling-2530263/
 
