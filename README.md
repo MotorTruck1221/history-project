@@ -1,18 +1,34 @@
 <h1 align="center">Sources /Credits</h1>
 <h3 align="center">Here Are All the Sources Used! If you want to know which languages were used they are also below!</h3>
 
+---
+Image sources:
+
+
 - Landing page https://www.pexels.com/video/bird-s-eye-view-of-a-train-travelling-2530263/
 
-- Landing page code based off of: https://codepen.io/bradtraversy/pen/BaoWWjb
-
----
 
 - Part 1: https://owd.tcnj.edu/~borland/2006-indianindependence/images/map_of_india.jpg
 
-- Part one code based off of: https://codepen.io/jeffglenn/pen/KNYoKa
+- Part 1: https://owd.tcnj.edu/~borland/2006-indianindependence/images/gandhi.jpg
 
 ---
-- Part 2 code based off of: https://codepen.io/flkt-crnpio/pen/WxROwy
+
+Code sources:
+
+
+- Landing page code based off of: https://codepen.io/bradtraversy/pen/BaoWWjb
+
+- Part one code based off of: https://codepen.io/jeffglenn/pen/KNYoKa
+
+- Part 2 code based off of: https://codepen.io/fluxus/pen/rweVgp
+
+---
+Information:
+
+- Part 1: https://en.wikipedia.org/wiki/Indian_independence_movement
+
+- Part 1: Textbook/class
 ---
 
 
