@@ -35,7 +35,7 @@ Information:
 
 - Part 1: https://en.wikipedia.org/wiki/Indian_independence_movement
 
-- Part 1: Textbook/class
+- Part 1 and Part 2: Textbook/class
 ---
 
 
