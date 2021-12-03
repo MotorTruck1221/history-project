@@ -35,7 +35,11 @@ Information:
 
 - Part 1: https://en.wikipedia.org/wiki/Indian_independence_movement
 
-- Part 1 and Part 2: Textbook/class
+- Part 1 and Part 2: Textbook/slideshow/class
+
+- Part 2: https://en.wikipedia.org/wiki/Apartheid
+
+- Part 2: https://www.nelsonmandela.org/content/page/biography
 ---
 
 
