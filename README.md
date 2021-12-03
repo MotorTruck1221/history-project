@@ -12,7 +12,7 @@
 - Part one code based off of: https://codepen.io/jeffglenn/pen/KNYoKa
 
 ---
-- Part 2 code based off of: https://codepen.io/JackSalfia/pen/NNrmmq
+- Part 2 code based off of: https://codepen.io/flkt-crnpio/pen/WxROwy
 ---
 
 

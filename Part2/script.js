@@ -1,15 +1,13 @@
-(function($){
-    // variables
-    elementWidth = $('ul').width(),
-    containerWidth = $('nav').width(),
-    difference = elementWidth-containerWidth,
-    finalWidth = difference * 1.5,
-    element = $('ul');
-    
-    // active on click
-    $('li').on('click', function(){
-      $('li').removeClass('active');
-      $(this).addClass('active');
-    });
-    
-  })(jQuery);
+var mySwiper = new Swiper(".swiper-container", {
+    direction: "vertical",
+    loop: true,
+    pagination: ".swiper-pagination",
+    grabCursor: true,
+    speed: 1000,
+    paginationClickable: true,
+    parallax: true,
+    autoplay: false,
+    effect: "slide",
+    mousewheelControl: 1
+  });
+  
